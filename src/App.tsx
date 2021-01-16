@@ -21,7 +21,15 @@ function App() {
   //   {id: 1, title: 'Hello World', content: 'Welcome to learning React!'},
   //   {id: 2, title: 'Installation', content: 'You can install React from npm.'}
   // ];
-  const skillMap = {
+
+  type Skills = {
+    [skill: string]: {
+      text: string;
+      image: string;
+    };
+  };
+
+  const skillMap: Skills = {
     React: {
       text: "React is a Js Library",
       image: "https://miro.medium.com/max/500/1*cPh7ujRIfcHAy4kW2ADGOw.png",
