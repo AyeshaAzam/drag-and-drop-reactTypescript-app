@@ -13,7 +13,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ### 
 
- <img src=" https://github.com/AyeshaAzam/drag-and-drop-reactTypescript-app/blob/main/src/Images/drag-and-drop-app.PNG" />
+ <img src="https://github.com/AyeshaAzam/drag-and-drop-reactTypescript-app/blob/main/src/Images/drag-and-drop-app.PNG" />
 
  
 
